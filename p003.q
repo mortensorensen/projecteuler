@@ -12,4 +12,5 @@ primf:{[n]
 	];
 	:factors}
 
-\ts max primf2 n:600851475143j
+max primf 600851475143
+/ 6857
